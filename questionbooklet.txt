@@ -1,0 +1,50 @@
+1.Which command is used to print? 
+a)read
+b)print
+c)echo
+d)ls
+2.Which command is used to read?
+a)read
+b)print
+c)echo
+d)ls
+3)Which command is used get total no of elements in Array?
+a)${Array[@]}
+b)${#Array[@]}
+c)$Arra[@]
+d)$Array[*]
+4)Which command is used to get ipaddress of system?
+a)ls
+b)ifconfig
+c)ls ~
+d)ping
+5)Which command is used to get Shell name?
+a)echo $SHELL
+b)echo $PWD
+c)cd
+d)ls filename
+6)Which command is used to check the connectivity for remote system?
+a)echo
+b)read
+c)ping
+d)ipaddress
+7)Which command is used make directory 
+a)cp
+b)mkdir
+c)touch
+d)none
+8)How to print environment variable SHELL?
+a)printenv SHELL
+b)printenv $SHELL
+c)echo SHELL
+d)echo shell
+9)Which command is used to know hidden file ?
+a)ls -a
+b)ls
+c)cd ~
+d)cd ..
+10)Which command is used to know the os ?
+a)ls
+b)uname
+c)pwd
+d)osname
